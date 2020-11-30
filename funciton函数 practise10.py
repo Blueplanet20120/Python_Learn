@@ -43,7 +43,7 @@ def coverter2(weight=100): #有默认值，需要更改就要coverter2(weight=30
     ponds=weight/0.45 #公斤换算成磅
     print(ponds)
 
-
+#直接调用或者可以赋值调用
 coverter2()
 
 
