@@ -21,7 +21,7 @@ s = 'he"iiiilio"oo'
 s = "Hell\"o"  # 想在里面带“，所以用\代表跳脱
 s = "Hello" + "world"  # 串接+ 也可以用空白 python里特殊用法
 s = "Hello\nWrold\nBaybay"  # 或者三个同样符号 例如‘’‘   ’‘’直接换行
-s = '''hello'
+s = '''hello
 
 
 hooooo
