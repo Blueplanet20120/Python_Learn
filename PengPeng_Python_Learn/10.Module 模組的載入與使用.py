@@ -17,6 +17,7 @@ sys.path.append("Modules")  # 添加python当前路径下的Modules路径
 print(sys.path)  # 印出模组的搜寻路径列表
 
 import geometry
+
 result = geometry.distance(1, 1, 3, 4)
 print(result)
 result = geometry.slope(2, 3, 4, 6)
