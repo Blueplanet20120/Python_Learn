@@ -1,4 +1,4 @@
-# 实体物件的建立與使用 - 上篇 - 实体屬性 Instance Attributes
+# 实体物件的建立與使用 - 上篇
 # class Point:
 #     def __init__(self):
 #         self.x=3
