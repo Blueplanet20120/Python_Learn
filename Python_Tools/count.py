@@ -20,3 +20,5 @@ class Calculator():
     # 加法
     def div(self):
         return self.a / self.b
+
+    ##
