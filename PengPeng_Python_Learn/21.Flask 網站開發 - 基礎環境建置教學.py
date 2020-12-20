@@ -1,9 +1,10 @@
 #Flask 網站開發 - 基礎環境建置教學
 #主要的步骤:
 ###
-# 1 安装 Flask 套件 pip install flask
+# 1 安装 Flask 套件 pip install Flask
 # 2 建立专案资料夹\","撰写程式
 # 3 启动伺服器\","测试网站运作
+
 ###建立简单的网站伺服器代码
 from flask import Flask
 app=Flask(__name__) #__name__ 代表目前执行的模组

@@ -5,8 +5,8 @@
 # file.write("Hello File Yang Yang\nSecond Line\nThrid Line\n测试中文") #操作
 # file.close() #关闭
 # #比较好的程式 with as 不需要close，会自动关闭档案
-# with open("data2.txt",mode="w",encoding="utf-8") as file:
-#     file.write("3\n4\n5\n6")
+ with open("data2.txt",mode="w",encoding="utf-8") as file:
+     file.write("3\n4\n5\n6")
 #
 # #档案的读取
 # with open("data.txt",mode="r",encoding="utf-8") as file:
