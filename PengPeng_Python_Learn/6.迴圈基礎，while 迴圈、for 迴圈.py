@@ -1,9 +1,9 @@
 #迴圈基礎，while 迴圈、for 迴圈
 #使用range(）可以快速生成一个列表
 # range(5)
-# print(range(5))
-# for i in range(5):
-#     print(i)
+print(range(5))
+for i in range(5):
+    print(i)
 # # while回圈
 n=1
 sum=0
